@@ -1,0 +1,13 @@
+public/**/*.html linguist-vendored
+
+src/*.astro linguist-detectable
+*.min.js linguist-generated
+
+*.woff binary
+go.sum linguist-generated
+node_modules/* linguist-vendored
+*.htm linguist-vendored
+*.png binary
+*.bat text eol=crlf
+
+*.sh text eol=lf
